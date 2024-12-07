@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  text-decoration: none;
+  color: #eee;
+}
+
+body {
+  background: #0d1117;
+  font-family: "mona sans", serif;
+  font-weight: 400;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100dvw;
+  height: 100dvh;
+}/*# sourceMappingURL=root.css.map */
